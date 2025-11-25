@@ -9,3 +9,4 @@ fix: handle invalid credentials
 # refactor: reposition button
 # This is a new feature
 # Fixed a typo in the new feature
+# This is a secret feature
