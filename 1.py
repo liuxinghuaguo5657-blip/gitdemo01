@@ -7,3 +7,5 @@ fix: handle invalid credentials
 # feat: add button UI
 # fix: adjust button color
 # refactor: reposition button
+# This is a new feature
+# Fixed a typo in the new feature
