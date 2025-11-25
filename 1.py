@@ -9,4 +9,8 @@ fix: handle invalid credentials
 # refactor: reposition button
 # This is a new feature
 # Fixed a typo in the new feature
+<<<<<<< Updated upstream
 # This is a secret feature
+=======
+# Some work in progress that is not ready to be committed
+>>>>>>> Stashed changes
