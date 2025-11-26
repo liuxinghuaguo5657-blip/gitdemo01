@@ -11,3 +11,4 @@ fix: handle invalid credentials
 # Fixed a typo in the new feature
 # This is a secret feature
 # Some work in progress that is not ready to be committed# A specific change for cherry-pick demonstration
+# This is a hotfix
